@@ -1,5 +1,5 @@
 body {
-    background-color: #1e1f24;
+    background-color: #44a38e;
     color: #333;
     text-align: center;
     font-family: arial;
@@ -50,4 +50,13 @@ body {
     color: #fff;
     text-align: center;
     padding: 0.5em;
+}
+
+.post .imagen {
+    display: flex;
+    justify-content: center;
+}
+
+.post .imagen img{
+    width: 100%;
 }
