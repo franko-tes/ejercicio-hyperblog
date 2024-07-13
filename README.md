@@ -3,7 +3,7 @@
 
 >  Repositorio creado para el estudio y aprendizaje de Git y Github. Se aplicó html y css en la construcción de un blog sencillo con fines prácticos.
 
-##Durante el curso vemos:
+## Durante el curso vemos:
 
 * **Comandos de Git**
 * **Flujo de trabajo en GitHub**
